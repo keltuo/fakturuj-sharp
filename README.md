@@ -31,7 +31,7 @@ Jako příklad je možné si v nastavení vyexportovat zabudovanou šablonu.
 | SWIFT                                   |                                                                                                  |
 | BANKA                                   | Název banky                                                                                      |
 | KOD_BANKY                               |                                                                                                  |
-| {{POLOZKA_SABLONA}}{{/POLOZKA_SABLONA}} | Označení šablony položky HTML obsah mezi těmito dvěmi značkami  bude opakován pro každou položku |
+| POLOZKA_SABLONA /POLOZKA_SABLONA        | Označení šablony položky HTML obsah mezi těmito dvěmi značkami  bude opakován pro každou položku |
 | POLOZKA_PORADI                          | Dostupné pouze mezi značkami pro  šablonu položky                                                |
 | POLOZKA_NAZEV                           | Dostupné pouze mezi značkami pro  šablonu položky                                                |
 | POLOZKA_POCET                           | Dostupné pouze mezi značkami pro  šablonu položky                                                |
