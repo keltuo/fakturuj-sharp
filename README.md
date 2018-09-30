@@ -3,7 +3,7 @@
 Fakturuj# je jednoduchý program pro tvorbu faktur. Program neobsahuje žádná omezení a je zcela zdarma. **Program ukládá data pouze na počítač uživatele** ukládány jsou účetní jednotky zadané uživatelem a klienti které je možné odebrat pravým klikem po najetí na nabízenou položku. Uložená data je možné kdykoliv smazat v nastavení, nebo smazáním souboru ```data``` ve složce programu. Jedinou funkcionalitou vyžadující připojení je vyhledávání v registru podnikatelů podle IČO.
 
 ## Tvorba vlastní šablony
-Pro fakturu je možné si vytvořit vlastní HTML šablonu. Pro každou informaci ve faktuře existuje klíč v čabloně který bude nahrazen příslušnou hodnotou. Každý klíč je obalen dvěmi složenými závorkami např. {{UCETNI_JEDNOTKA_NAZEV}} 
+Pro fakturu je možné si vytvořit vlastní HTML šablonu. Pro každou informaci ve faktuře existuje klíč v šabloně který bude nahrazen příslušnou hodnotou. Každý klíč je obalen dvěmi složenými závorkami např. {{UCETNI_JEDNOTKA_NAZEV}} 
 Jako příklad je možné si v nastavení vyexportovat zabudovanou šablonu.
 
 ### Seznam klíčů pro hodnoty
